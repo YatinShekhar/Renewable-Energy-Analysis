@@ -1,26 +1,19 @@
 # Renewable Energy Dashboard 2023 📊
 ![image](https://github.com/user-attachments/assets/3e679c64-1257-4d67-ab6f-0f32d9dee2d7)
-CBoQAA..i&w=1980&h=741&hcb=2&ved=2ahUKEwic-8zhl5yNAxVEa_UHHbZ1EQcQM3oECBoQAA
 
-This repository contains the files for creating the **`Renewable Energy Dashboard using Excel`**
+## Overview 📋
+* This project aims to analyze global trends in renewable energy generation, investment, and employment from 2000 to 2023 using an interactive Excel dashboard.
+* Covers multiple renewable sources — Hydropower, Solar, Wind, Bioenergy, and others — across different countries and region
 
-In this project, we will complete the following tasks:
-
-* Clean the raw data in Excel (remove duplicates, standardize data using nested IF(), etc.).
-* Explore the dataset using Pivot Tables.
-* Create two inteactive dashboards -
-  1. Renewable Energy Dashboard 2023
-  2. Renewable Energy Regional Focus 2023
-
-## About the Dataset
+## About the Dataset 
 I have downloaded the data from [International Renewable Energy Agency]('https://www.irena.org/Data/').
 The raw dataset looks like this - 
 
-1. [Renewable Energy Raw Dataset](https://github.com/YatinShekhar/Renewable-Energy-Analysis/blob/main/raw-files/Renewable%20Energy%20Raw%20Dataset.xlsx)
-2. [Renewable Energy Investment Raw Dataset](https://github.com/YatinShekhar/Renewable-Energy-Analysis/blob/main/raw-files/Renewable%20Investments%20Raw%20Dataset.xlsx)
-3. [Renewable Energy Jobs Dataset](https://github.com/YatinShekhar/Renewable-Energy-Analysis/blob/main/raw-files/Renewable%20Energy%20Jobs%20Dataset.xlsx)
+* [Renewable Energy Raw Dataset](https://github.com/YatinShekhar/Renewable-Energy-Analysis/blob/main/raw-files/Renewable%20Energy%20Raw%20Dataset.xlsx)
+*  [Renewable Energy Investment Raw Dataset](https://github.com/YatinShekhar/Renewable-Energy-Analysis/blob/main/raw-files/Renewable%20Investments%20Raw%20Dataset.xlsx)
+* [Renewable Energy Jobs Dataset](https://github.com/YatinShekhar/Renewable-Energy-Analysis/blob/main/raw-files/Renewable%20Energy%20Jobs%20Dataset.xlsx)
 
-## Power Pivot
+## Power Pivot 
 After downloading the raw dataset, it was loaded into `Power Pivot` for cleaning. After investing meaningful time in cleaning the dataset, 
 the cleaned dataset is here:
 
@@ -31,7 +24,7 @@ For cleaning our data much more easily and swiftly, we created an additonal data
 * [Additional Data for Cleaning](https://github.com/YatinShekhar/Renewable-Energy-Analysis/blob/main/clean-files/Additonal%20Data%20For%20Cleaning.xlsx)
 
 ## Renewable Energy Dashboard 📊
-[Renewable Energy Dashboard PDF.pdf](https://github.com/user-attachments/files/20150805/Renewable.Energy.Dashboard.PDF.pdf)
+![Image](https://github.com/user-attachments/assets/b2ad4c0b-1f73-4e15-9ec2-75d0f57e2a9c)
 
 ## Insights 🔎
 
