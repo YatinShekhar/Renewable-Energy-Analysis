@@ -1,4 +1,6 @@
-# Renewable Energy Dashboard 2023
+# Renewable Energy Dashboard 2023 📊
+![image](https://github.com/user-attachments/assets/3e679c64-1257-4d67-ab6f-0f32d9dee2d7)
+CBoQAA..i&w=1980&h=741&hcb=2&ved=2ahUKEwic-8zhl5yNAxVEa_UHHbZ1EQcQM3oECBoQAA
 
 This repository contains the files for creating the **`Renewable Energy Dashboard using Excel`**
 
