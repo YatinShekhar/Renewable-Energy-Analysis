@@ -52,7 +52,7 @@ Solar Capacity increasing exponentially over years. In 2023, there was a rise of
 * `Export-Import Bank of China` being the 2nd with `$90 billion` of investment.
 
 # Renewable Energy Regional Focus 📊
-![Image](https://github.com/user-attachments/assets/0e95ee2d-0fda-46af-af35-a2cfa4cc3e40)
+![Image](https://github.com/user-attachments/assets/aeaf9c57-d81c-4d8a-8446-52b611451758)
 
 # Insights 🔎
 
@@ -67,7 +67,7 @@ From 2007 to 2022, all three sources — Bioenergy, Solar, and Wind — have gro
 * Solar energy shows the most aggressive growth.
 * Wind energy has consistent and steady expansion.
 
-# Technical & Soft Skills: 🛠️
+# Technical Skills: 🛠️
 
 - [x]	Proficiency in ETL methodology `(Extract, Transform, Load)`.
 - [x]	Skills to clean a raw data using `Power Query`.
