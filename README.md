@@ -13,14 +13,14 @@ The raw dataset looks like this -
 * [Renewable Energy Investment Raw Dataset](https://github.com/YatinShekhar/Renewable-Energy-Analysis/blob/main/raw-files/Renewable%20Investments%20Raw%20Dataset.xlsx)
 * [Renewable Energy Jobs Dataset](https://github.com/YatinShekhar/Renewable-Energy-Analysis/blob/main/raw-files/Renewable%20Energy%20Jobs%20Dataset.xlsx)
 
-# Power Pivot 
-After downloading the raw dataset, it was loaded into `Power Pivot` for cleaning. After investing meaningful time in cleaning the dataset, 
+# Power Query
+After downloading the raw dataset, it was loaded into `Power Query` for cleaning. After investing meaningful time in cleaning the dataset, 
 the cleaned dataset is here:
 
 * [Renewable Energy Clean Dataset](https://github.com/YatinShekhar/Renewable-Energy-Analysis/blob/main/clean-files/Additonal%20Data%20For%20Cleaning.xlsx)
 * [Renewable Investment Clean Dataset](https://github.com/YatinShekhar/Renewable-Energy-Analysis/blob/main/clean-files/Renewable%20Investments%20Clean%20Dataset.xlsx)
 
-For cleaning our data much more easily and swiftly, we created an additonal data table using Power Pivot:
+For cleaning our data much more easily and swiftly, we created an additonal data table using Power Query:
 * [Additional Data for Cleaning](https://github.com/YatinShekhar/Renewable-Energy-Analysis/blob/main/clean-files/Additonal%20Data%20For%20Cleaning.xlsx)
 
 # Renewable Energy Dashboard 📊
